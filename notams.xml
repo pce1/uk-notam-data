@@ -1,1 +1,4 @@
-testing xml content
+{
+    "content": "testing xml content",
+    "encoding": "utf-8"
+}
